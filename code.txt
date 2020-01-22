@@ -7,13 +7,13 @@
 <center>
 <h1><b>Joshita Nagaraj</b></h1>
 <font color="black">
-<center> enter image
+<center><img src="me.png"width="830"height="923">
 <p><big>PES University, Interaction design</big></p>
 <p><i>Semester 4</p></i>
 <h2>Skills</h2>
 <li><i>Content creation</li></i>
 <li><i>Adobe illustrator and photoshop</li></i>
-<li><i>Writing, both creative and otherwise</li></i>
+<li><i>Writing, both creative and otherwise</li></i></center>
 
 <a href="https://bharatiyawebseries.com/"><button><img src="BWS-01-scaled.png"width="45"></button></a>
 
@@ -24,15 +24,17 @@
 
 <h4>Places obsessed with</h4>
 <center>
-<li><i>Tuvalu</li></i>
-<center><img src="150_GeoNews_01-1300x865.jpg"width="669"height="446">
+<li><i>Tuvalu</li></i></center>
+<center><img src="150_GeoNews_01-1300x865.jpg"width="669"height="446"></center>
 <li><i>Zanzibar</li></i>
-<center> <img src="zanzibar-beaches-GettyImages-1136453253-0aac4dd3f8e1.jpg"width="669"height="446">
+<center><img src="zanzibar-beaches-GettyImages-1136453253-0aac4dd3f8e1.jpg"width="669"height="446"></center>
 <li><i>Montenegro</li></i>
-<center> <img src="09.jpg"width="669"height="446">
+<center><img src="09.jpg"width="669"height="446"></center>
 <li><i>Philippines</li></i>
-<center> <img src="Travel-to-Philippines-Rough-Guides.jpg"width="669"height="446">
+<center><img src="Travel-to-Philippines-Rough-Guides.jpg"width="669"height="446">
 <li><i>Norway</li></i>
-<center> <img src="norway.jpg"width="669"height="446">
+<center><img src="norway.jpg"width="669"height="446"></center>
+</body>
+</html>
 
 
