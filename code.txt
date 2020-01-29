@@ -25,15 +25,10 @@
 <h4>Places obsessed with</h4>
 <center>
 <li><i>Tuvalu</li></i></center>
-<center><img src="150_GeoNews_01-1300x865.jpg"width="669"height="446"></center>
 <li><i>Zanzibar</li></i>
-<center><img src="zanzibar-beaches-GettyImages-1136453253-0aac4dd3f8e1.jpg"width="669"height="446"></center>
 <li><i>Montenegro</li></i>
-<center><img src="09.jpg"width="669"height="446"></center>
 <li><i>Philippines</li></i>
-<center><img src="Travel-to-Philippines-Rough-Guides.jpg"width="669"height="446">
 <li><i>Norway</li></i>
-<center><img src="norway.jpg"width="669"height="446"></center>
 </body>
 </html>
 
